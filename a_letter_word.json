@@ -1,5 +1,6 @@
 {
   "absorb": { "bangla": "শোষণ করা / টেনে নেওয়া", "pron": "অ্যাবজর্ব", "type": "verb (base)" },
+  "and": { "bangla": "এবং", "pron": "অ্যান্ড", "type": "conjunction" },
   "absorbs": { "bangla": "শোষণ করে / টেনে নেয়", "pron": "অ্যাবজর্বস", "type": "verb (3rd person singular present)" },
   "absorbing": { "bangla": "শোষণ করছে / আকর্ষণীয়", "pron": "অ্যাবজরবিং", "type": "verb (present participle) / adjective" },
   "absorbed": { "bangla": "শোষিত / নিমগ্ন", "pron": "অ্যাবজরবড", "type": "verb (past participle) / adjective" },
@@ -238,3 +239,4 @@
 "playground": { "bangla": "খেলার মাঠ", "pron": "প্লেগ্রাউন্ড", "type": "noun (singular)" },
 "playgrounds": { "bangla": "খেলার মাঠসমূহ", "pron": "প্লেগ্রাউন্ডস", "type": "noun (plural)" }
 }
+
