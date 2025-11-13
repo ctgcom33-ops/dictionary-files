@@ -1,0 +1,240 @@
+{
+  "absorb": { "bangla": "শোষণ করা / টেনে নেওয়া", "pron": "অ্যাবজর্ব", "type": "verb (base)" },
+  "absorbs": { "bangla": "শোষণ করে / টেনে নেয়", "pron": "অ্যাবজর্বস", "type": "verb (3rd person singular present)" },
+  "absorbing": { "bangla": "শোষণ করছে / আকর্ষণীয়", "pron": "অ্যাবজরবিং", "type": "verb (present participle) / adjective" },
+  "absorbed": { "bangla": "শোষিত / নিমগ্ন", "pron": "অ্যাবজরবড", "type": "verb (past participle) / adjective" },
+  "absorption": { "bangla": "শোষণ / আত্মসাৎ", "pron": "অ্যাবজর্পশন", "type": "noun" },
+  "absorbent": { "bangla": "শোষক / শোষণক্ষম", "pron": "অ্যাবজরবেন্ট", "type": "adjective / noun" },
+  "absorbable": { "bangla": "শোষণযোগ্য", "pron": "অ্যাবজরবেবল", "type": "adjective" },
+
+  "academic": { "bangla": "শিক্ষাগত / বিদ্যাগত", "pron": "অ্যাকাডেমিক", "type": "adjective / noun" },
+  "academics": { "bangla": "শিক্ষাবিষয় / শিক্ষার্থীরা", "pron": "অ্যাকাডেমিকস", "type": "noun (plural)" },
+  "academically": { "bangla": "শিক্ষাগতভাবে", "pron": "অ্যাকাডেমিকালি", "type": "adverb" },
+
+  "according": { "bangla": "অনুযায়ী / অনুযায়ে", "pron": "অ্যাকর্ডিং", "type": "preposition / adverb (used with 'to')" },
+  "across": { "bangla": "অতিক্রম করে / জুড়ে", "pron": "অ্যাক্রস", "type": "preposition / adverb" },
+
+  "act": { "bangla": "কর্ম / কাজ করা / অভিনয় করা", "pron": "অ্যাক্ট", "type": "noun / verb (base)" },
+  "acts": { "bangla": "কাজ করে / কাজসমূহ", "pron": "অ্যাক্টস", "type": "verb (3rd person singular present) / noun (plural)" },
+  "acted": { "bangla": "অভিনয় করেছিল / কাজ করেছিল", "pron": "অ্যাক্টেড", "type": "verb (past)" },
+  "acting": { "bangla": "অভিনয় / অভিনয় করছে", "pron": "অ্যাক্টিং", "type": "noun / verb (present participle)" },
+  "action": { "bangla": "কর্ম / পদক্ষেপ", "pron": "অ্যাকশন", "type": "noun" },
+  "actions": { "bangla": "কর্মগুলো / পদক্ষেপসমূহ", "pron": "অ্যাকশনস", "type": "noun (plural)" },
+  "active": { "bangla": "সক্রিয়", "pron": "অ্যাক্টিভ", "type": "adjective" },
+  "actively": { "bangla": "সক্রিয়ভাবে", "pron": "অ্যাক্টিভলি", "type": "adverb" },
+  "activity": { "bangla": "কর্ম / কার্যকলাপ", "pron": "অ্যাক্টিভিটি", "type": "noun (singular)" },
+  "activities": { "bangla": "কার্যকলাপসমূহ", "pron": "অ্যাক্টিভিটিস", "type": "noun (plural)" },
+  "actor": { "bangla": "অভিনেতা", "pron": "অ্যাক্টর", "type": "noun" },
+  "actress": { "bangla": "অভিনেত্রী", "pron": "অ্যাক্টরেস", "type": "noun" },
+  "activation": { "bangla": "সক্রিয়করণ", "pron": "অ্যাক্টিভেশন", "type": "noun" },
+
+  "adapt": { "bangla": "খাপ খাওয়ানো / মানিয়ে নেওয়া", "pron": "অ্যাডাপ্ট", "type": "verb (base)" },
+  "adapts": { "bangla": "মানায় / খাপ খায়", "pron": "অ্যাডাপ্টস", "type": "verb (3rd person singular present)" },
+  "adapting": { "bangla": "খাপ খাওয়াচ্ছে", "pron": "অ্যাডাপ্টিং", "type": "verb (present participle)" },
+  "adapted": { "bangla": "মানানো / খাপ খাওয়ানো হয়েছে", "pron": "অ্যাডাপ্টেড", "type": "verb (past participle)" },
+  "adaptation": { "bangla": "অভ্যস্ততা / অভিযোজন", "pron": "অ্যাডাপ্টেশন", "type": "noun" },
+  "adaptable": { "bangla": "অভিযোজ্য / মানিয়ে নেওয়া যায় এমন", "pron": "অ্যাডাপ্টেবল", "type": "adjective" },
+  "adaptably": { "bangla": "অভিযোজ্যভাবে", "pron": "অ্যাডাপ্টাবলি", "type": "adverb" },
+
+  "adhere": { "bangla": "আটকে থাকা / অনুগত থাকা", "pron": "অ্যাডহিয়ার", "type": "verb (base)" },
+  "adheres": { "bangla": "আটকে থাকে / অনুগত থাকে", "pron": "অ্যাডহিয়ার্স", "type": "verb (3rd person singular present)" },
+  "adhering": { "bangla": "আটকে আছে / অনুগত রয়েছে", "pron": "অ্যাডহিয়ারিং", "type": "verb (present participle)" },
+  "adhered": { "bangla": "আটকে ছিল / অনুগত ছিল", "pron": "অ্যাডহিয়ার্ড", "type": "verb (past)" },
+  "adherence": { "bangla": "অনুগত থাকা / অনুসরণ", "pron": "অ্যাডহিয়ারেন্স", "type": "noun" },
+  "adherent": { "bangla": "অনুসারী / অনুগত", "pron": "অ্যাডহিয়ারেন্ট", "type": "noun / adjective" },
+
+  "adverse": { "bangla": "প্রতিকূল / বিরূপ", "pron": "অ্যাডভার্স", "type": "adjective" },
+  "adversely": { "bangla": "প্রতিকূলভাবে", "pron": "অ্যাডভার্সলি", "type": "adverb" },
+  "adversity": { "bangla": "দুর্দশা / প্রতিকূলতা", "pron": "অ্যাডভার্সিটি", "type": "noun" },
+
+  "aesthetic": { "bangla": "রুচিসম্মত / নান্দনিক", "pron": "এসথেটিক", "type": "adjective" },
+  "aesthetics": { "bangla": "নান্দনিকতা", "pron": "এসথেটিকস", "type": "noun" },
+  "aesthetically": { "bangla": "নান্দনিকভাবে", "pron": "এসথেটিকালি", "type": "adverb" },
+
+  "affect": { "bangla": "প্রভাবিত করা", "pron": "অ্যাফেক্ট", "type": "verb (base)" },
+  "affects": { "bangla": "প্রভাবিত করে", "pron": "অ্যাফেক্টস", "type": "verb (3rd person singular present)" },
+  "affecting": { "bangla": "প্রভাবিত করছে", "pron": "অ্যাফেক্টিং", "type": "verb (present participle)" },
+  "affected": { "bangla": "প্রভাবিত", "pron": "অ্যাফেক্টেড", "type": "verb (past participle) / adjective" },
+  "affective": { "bangla": "অনুভূতিসংক্রান্ত / আবেগজনিত", "pron": "অ্যাফেক্টিভ", "type": "adjective" },
+
+  "afternoon": { "bangla": "বিকাল", "pron": "আফটারনুন", "type": "noun (singular)" },
+  "afternoons": { "bangla": "বিকেলগুলো", "pron": "আফটারনুনস", "type": "noun (plural)" },
+
+  "age": { "bangla": "বয়স / যুগ", "pron": "এইজ", "type": "noun / verb (base)" },
+  "ages": { "bangla": "যুগসমূহ / বয়স বাড়ে", "pron": "এইজেস", "type": "noun (plural) / verb (present)" },
+  "aged": { "bangla": "বৃদ্ধ / বয়স্ক / বয়সযুক্ত", "pron": "এইজ্ড", "type": "adjective / verb (past)" },
+  "aging": { "bangla": "বয়স বৃদ্ধি / বয়স বাড়ছে", "pron": "এইজিং", "type": "noun / verb (present participle)" },
+
+  "ago": { "bangla": "আগে", "pron": "আগো", "type": "adverb" },
+
+  "agriculture": { "bangla": "কৃষি", "pron": "অ্যাগ্রিকালচার", "type": "noun" },
+  "agricultural": { "bangla": "কৃষিসংক্রান্ত", "pron": "অ্যাগ্রিকালচারাল", "type": "adjective" },
+  "agriculturally": { "bangla": "কৃষিগতভাবে", "pron": "অ্যাগ্রিকালচারালি", "type": "adverb" },
+
+  "aim": { "bangla": "লক্ষ্য / লক্ষ্য করা", "pron": "এম", "type": "noun / verb (base)" },
+  "aims": { "bangla": "লক্ষ্যসমূহ / লক্ষ্য করে", "pron": "এমস", "type": "noun (plural) / verb (present)" },
+  "aimed": { "bangla": "লক্ষ্য স্থির করেছিল", "pron": "এম্ড", "type": "verb (past)" },
+  "aiming": { "bangla": "লক্ষ্য করছে", "pron": "এমিং", "type": "verb (present participle)" },
+
+  "air": { "bangla": "বায়ু / প্রচার করা", "pron": "এয়ার", "type": "noun / verb (base)" },
+  "airs": { "bangla": "বায়ুসমূহ / প্রচার করে", "pron": "এয়ার্স", "type": "noun (plural) / verb (present)" },
+  "aired": { "bangla": "প্রচারিত হয়েছে", "pron": "এয়ার্ড", "type": "verb (past)" },
+  "airing": { "bangla": "প্রচার / বাতাসে রাখা", "pron": "এয়ারিং", "type": "noun / verb (present participle)" },
+  "airy": { "bangla": "বাতাসপূর্ণ / হালকা", "pron": "এয়ারি", "type": "adjective" },
+  "airless": { "bangla": "বায়ুহীন", "pron": "এয়ারলেস", "type": "adjective" },
+  "airiness": { "bangla": "বাতাসপূর্ণতা / হালকাভাব", "pron": "এয়ারিনেস", "type": "noun" },
+  "airline": { "bangla": "বিমান সংস্থা", "pron": "এয়ারলাইন", "type": "noun" },
+  "airplane": { "bangla": "বিমান", "pron": "এয়ারপ্লেন", "type": "noun" },
+  "airplanes": { "bangla": "বিমানসমূহ", "pron": "এয়ারপ্লেনস", "type": "noun (plural)" },
+  "aircraft": { "bangla": "বিমানযান", "pron": "এয়ারক্রাফট", "type": "noun" },
+  "airport": { "bangla": "বিমানবন্দর", "pron": "এয়ারপোর্ট", "type": "noun" },
+
+  "alarming": { "bangla": "বিস্ময়করভাবে উদ্বেগজনক", "pron": "অ্যালার্মিং", "type": "adjective" },
+  "alarm": { "bangla": "সতর্ক সংকেত / ভয় দেখানো", "pron": "অ্যালার্ম", "type": "noun / verb" },
+  "alarms": { "bangla": "অ্যালার্মগুলো / ভয় দেখায়", "pron": "অ্যালার্মস", "type": "noun (plural) / verb (present)" },
+  "alarmed": { "bangla": "ভীত / আতঙ্কিত", "pron": "অ্যালার্ম্ড", "type": "adjective / verb (past)" },
+  "alarmingly": { "bangla": "উদ্বেগজনকভাবে", "pron": "অ্যালার্মিংলি", "type": "adverb" },
+
+  "alone": { "bangla": "একাকী / একা", "pron": "অ্যালোন", "type": "adjective / adverb" },
+  "along": { "bangla": "সাথে সাথে / বরাবর", "pron": "অ্যালং", "type": "preposition / adverb" },
+
+  "alternative": { "bangla": "বিকল্প", "pron": "অলটারনেটিভ", "type": "noun / adjective" },
+  "alternatives": { "bangla": "বিকল্পসমূহ", "pron": "অলটারনেটিভস", "type": "noun (plural)" },
+  "alternatively": { "bangla": "বিকল্পভাবে", "pron": "অলটারনেটিভলি", "type": "adverb" },
+
+  "always": { "bangla": "সবসময়", "pron": "অলওয়েজ", "type": "adverb" },
+  "Ameen": { "bangla": "আমিন", "pron": "আমিন", "type": "interjection" },
+  "amid": { "bangla": "মাঝে / মধ্যে", "pron": "অ্যামিড", "type": "preposition" },
+
+  "amount": { "bangla": "পরিমাণ / পরিমাণ হওয়া", "pron": "অ্যামাউন্ট", "type": "noun / verb" },
+  "amounts": { "bangla": "পরিমাণসমূহ / সমান হয়", "pron": "অ্যামাউন্টস", "type": "noun (plural) / verb (present)" },
+  "amounted": { "bangla": "সমান ছিল / পরিমাণ ছিল", "pron": "অ্যামাউন্টেড", "type": "verb (past)" },
+  "amounting": { "bangla": "সমান হচ্ছে / পরিমাণ হচ্ছে", "pron": "অ্যামাউন্টিং", "type": "verb (present participle)" },
+
+  "animal": { "bangla": "প্রাণী", "pron": "অ্যানিম্যাল", "type": "noun" },
+  "animals": { "bangla": "প্রাণীগুলো", "pron": "অ্যানিম্যালস", "type": "noun (plural)" },
+  "animalistic": { "bangla": "পশুসুলভ", "pron": "অ্যানিম্যালিস্টিক", "type": "adjective" },
+  "animalism": { "bangla": "পশুত্ব / নীচ প্রবৃত্তি", "pron": "অ্যানিম্যালিজম", "type": "noun" },
+
+  "announce": { "bangla": "ঘোষণা করা", "pron": "অ্যানাউন্স", "type": "verb (base)" },
+  "announces": { "bangla": "ঘোষণা করে", "pron": "অ্যানাউন্সেস", "type": "verb (present)" },
+  "announced": { "bangla": "ঘোষণা করেছিল", "pron": "অ্যানাউন্সড", "type": "verb (past)" },
+  "announcing": { "bangla": "ঘোষণা করছে", "pron": "অ্যানাউন্সিং", "type": "verb (present participle)" },
+  "announcement": { "bangla": "ঘোষণা", "pron": "অ্যানাউন্সমেন্ট", "type": "noun" },
+
+  "answer": { "bangla": "উত্তর / উত্তর দেওয়া", "pron": "আনসার", "type": "noun / verb" },
+  "answers": { "bangla": "উত্তরসমূহ / উত্তর দেয়", "pron": "আনসার্স", "type": "noun (plural) / verb (present)" },
+  "answered": { "bangla": "উত্তর দিয়েছিল", "pron": "আনসার্ড", "type": "verb (past)" },
+  "answering": { "bangla": "উত্তর দিচ্ছে", "pron": "আনসারিং", "type": "verb (present participle)" },
+  "answerable": { "bangla": "উত্তরযোগ্য / দায়িত্বশীল", "pron": "আনসারেবল", "type": "adjective" },
+
+  "ant": { "bangla": "পিঁপড়া", "pron": "অ্যান্ট", "type": "noun" },
+  "ants": { "bangla": "পিঁপড়াগুলো", "pron": "অ্যান্টস", "type": "noun (plural)" },
+
+"appear": { "bangla": "প্রকাশ পাওয়া / দেখা দেওয়া", "pron": "অ্যাপিয়ার", "type": "verb (base)" },
+"appears": { "bangla": "দেখায় / দেখা দেয়", "pron": "অ্যাপিয়ারস", "type": "verb (present)" },
+"appeared": { "bangla": "দেখা দিয়েছিল / প্রকাশ পেয়েছিল", "pron": "অ্যাপিয়ার্ড", "type": "verb (past)" },
+"appearing": { "bangla": "দেখা দিচ্ছে / প্রকাশ পাচ্ছে", "pron": "অ্যাপিয়ারিং", "type": "verb (present participle)" },
+"appearance": { "bangla": "চেহারা / প্রকাশ", "pron": "অ্যাপিয়ারেন্স", "type": "noun" },
+
+"appreciate": { "bangla": "প্রশংসা করা / মূল্যায়ন করা", "pron": "অ্যাপ্রিশিয়েট", "type": "verb (base)" },
+"appreciates": { "bangla": "প্রশংসা করে / মূল্য দেয়", "pron": "অ্যাপ্রিশিয়েটস", "type": "verb (present)" },
+"appreciated": { "bangla": "প্রশংসিত / কৃতজ্ঞ", "pron": "অ্যাপ্রিশিয়েটেড", "type": "verb (past participle) / adjective" },
+"appreciating": { "bangla": "প্রশংসা করছে / মূল্যায়ন করছে", "pron": "অ্যাপ্রিশিয়েটিং", "type": "verb (present participle)" },
+"appreciation": { "bangla": "প্রশংসা / কৃতজ্ঞতা", "pron": "অ্যাপ্রিশিয়েশন", "type": "noun" },
+"appreciative": { "bangla": "প্রশংসাপূর্ণ / কৃতজ্ঞ", "pron": "অ্যাপ্রিশিয়েটিভ", "type": "adjective" },
+"appreciatively": { "bangla": "প্রশংসাসূচকভাবে / কৃতজ্ঞতার সাথে", "pron": "অ্যাপ্রিশিয়েটিভলি", "type": "adverb" },
+
+"aptitude": { "bangla": "দক্ষতা / প্রাকৃতিক যোগ্যতা", "pron": "অ্যাপটিটিউড", "type": "noun" },
+"aptitudes": { "bangla": "দক্ষতাসমূহ", "pron": "অ্যাপটিটিউডস", "type": "noun (plural)" },
+"apt": { "bangla": "উপযুক্ত / তৎপর", "pron": "অ্যাপ্ট", "type": "adjective" },
+"aptly": { "bangla": "উপযুক্তভাবে", "pron": "অ্যাপ্টলি", "type": "adverb" },
+
+"arable": { "bangla": "চাষযোগ্য", "pron": "অ্যারাবল", "type": "adjective" },
+
+"area": { "bangla": "এলাকা / ক্ষেত্রফল", "pron": "এরিয়া", "type": "noun (singular)" },
+"areas": { "bangla": "এলাকাসমূহ / ক্ষেত্রসমূহ", "pron": "এরিয়াস", "type": "noun (plural)" },
+
+"areca": { "bangla": "সুপারি", "pron": "অ্যারিকা", "type": "noun" },
+"arecas": { "bangla": "সুপারিগাছসমূহ", "pron": "অ্যারিকাস", "type": "noun (plural)" },
+
+"arrange": { "bangla": "ব্যবস্থা করা / সাজানো", "pron": "অ্যারেঞ্জ", "type": "verb (base)" },
+"arranges": { "bangla": "ব্যবস্থা করে / সাজায়", "pron": "অ্যারেঞ্জেস", "type": "verb (present)" },
+"arranged": { "bangla": "সাজানো / ব্যবস্থা করা হয়েছে", "pron": "অ্যারেঞ্জড", "type": "verb (past)" },
+"arranging": { "bangla": "ব্যবস্থা করছে / সাজাচ্ছে", "pron": "অ্যারেঞ্জিং", "type": "verb (present participle)" },
+"arrangement": { "bangla": "ব্যবস্থা / বিন্যাস", "pron": "অ্যারেঞ্জমেন্ট", "type": "noun" },
+
+"around": { "bangla": "চারপাশে / প্রায়", "pron": "অ্যারাউন্ড", "type": "preposition / adverb" },
+
+"ask": { "bangla": "জিজ্ঞাসা করা / অনুরোধ করা", "pron": "আস্ক", "type": "verb (base)" },
+"asks": { "bangla": "জিজ্ঞাসা করে", "pron": "আস্কস", "type": "verb (present)" },
+"asked": { "bangla": "জিজ্ঞাসা করেছিল", "pron": "আস্ক্ড", "type": "verb (past)" },
+"asking": { "bangla": "জিজ্ঞাসা করছে", "pron": "আস্কিং", "type": "verb (present participle)" },
+"asker": { "bangla": "প্রশ্নকারী / অনুরোধকারী", "pron": "আস্কার", "type": "noun" },
+
+"assessment": { "bangla": "মূল্যায়ন", "pron": "অ্যাসেসমেন্ট", "type": "noun" },
+"assessments": { "bangla": "মূল্যায়নসমূহ", "pron": "অ্যাসেসমেন্টস", "type": "noun (plural)" },
+"assess": { "bangla": "মূল্যায়ন করা", "pron": "অ্যাসেস", "type": "verb (base)" },
+"assesses": { "bangla": "মূল্যায়ন করে", "pron": "অ্যাসেসেস", "type": "verb (present)" },
+"assessed": { "bangla": "মূল্যায়িত", "pron": "অ্যাসেস্ড", "type": "verb (past)" },
+"assessing": { "bangla": "মূল্যায়ন করছে", "pron": "অ্যাসেসিং", "type": "verb (present participle)" },
+"assessor": { "bangla": "মূল্যায়নকারী", "pron": "অ্যাসেসর", "type": "noun" },
+
+"assure": { "bangla": "নিশ্চিত করা / আশ্বাস দেওয়া", "pron": "অ্যাশিওর", "type": "verb (base)" },
+"assures": { "bangla": "আশ্বাস দেয়", "pron": "অ্যাশিওর্স", "type": "verb (present)" },
+"assured": { "bangla": "নিশ্চিত / আশ্বস্ত", "pron": "অ্যাশিওর্ড", "type": "adjective / verb (past)" },
+"assuring": { "bangla": "আশ্বাস দিচ্ছে", "pron": "অ্যাশিওরিং", "type": "verb (present participle)" },
+"assurance": { "bangla": "আশ্বাস / নিশ্চয়তা", "pron": "অ্যাশিওরেন্স", "type": "noun" },
+
+"attain": { "bangla": "অর্জন করা / পৌঁছানো", "pron": "অ্যাটেইন", "type": "verb (base)" },
+"attains": { "bangla": "অর্জন করে", "pron": "অ্যাটেইন্স", "type": "verb (present)" },
+"attained": { "bangla": "অর্জিত / পৌঁছেছে", "pron": "অ্যাটেইন্ড", "type": "verb (past)" },
+"attaining": { "bangla": "অর্জন করছে", "pron": "অ্যাটেইনিং", "type": "verb (present participle)" },
+"attainment": { "bangla": "অর্জন / প্রাপ্তি", "pron": "অ্যাটেইনমেন্ট", "type": "noun" },
+"attainable": { "bangla": "অর্জনযোগ্য", "pron": "অ্যাটেইনেবল", "type": "adjective" },
+
+"athletics": { "bangla": "ক্রীড়া / অ্যাথলেটিকস", "pron": "অ্যাথলেটিকস", "type": "noun (plural)" },
+"athletic": { "bangla": "ক্রীড়াবিষয়ক / শক্তিশালী", "pron": "অ্যাথলেটিক", "type": "adjective" },
+"athlete": { "bangla": "অ্যাথলেট / ক্রীড়াবিদ", "pron": "অ্যাথলিট", "type": "noun" },
+"athletically": { "bangla": "ক্রীড়াসুলভভাবে", "pron": "অ্যাথলেটিকালি", "type": "adverb" },
+
+"atmosphere": { "bangla": "বায়ুমণ্ডল / পরিবেশ", "pron": "অ্যাটমসফিয়ার", "type": "noun" },
+"atmospheres": { "bangla": "বায়ুমণ্ডলসমূহ", "pron": "অ্যাটমসফিয়ারস", "type": "noun (plural)" },
+"atmospheric": { "bangla": "বায়ুমণ্ডলীয়", "pron": "অ্যাটমসফেরিক", "type": "adjective" },
+"atmospherically": { "bangla": "বায়ুমণ্ডলীয়ভাবে", "pron": "অ্যাটমসফেরিকালি", "type": "adverb" },
+
+"attention": { "bangla": "মনোযোগ", "pron": "অ্যাটেনশন", "type": "noun" },
+"attentions": { "bangla": "মনোযোগসমূহ / যত্ন", "pron": "অ্যাটেনশনস", "type": "noun (plural)" },
+"attentive": { "bangla": "মনোযোগী / যত্নবান", "pron": "অ্যাটেনটিভ", "type": "adjective" },
+"attentively": { "bangla": "মনোযোগসহকারে", "pron": "অ্যাটেনটিভলি", "type": "adverb" },
+
+"attribute": { "bangla": "গুণ / আরোপ করা", "pron": "অ্যাট্রিবিউট", "type": "noun / verb" },
+"attributes": { "bangla": "গুণাবলি / আরোপ করে", "pron": "অ্যাট্রিবিউটস", "type": "noun (plural) / verb (present)" },
+"attributed": { "bangla": "আরোপিত", "pron": "অ্যাট্রিবিউটেড", "type": "verb (past participle)" },
+"attributing": { "bangla": "আরোপ করছে", "pron": "অ্যাট্রিবিউটিং", "type": "verb (present participle)" },
+"attribution": { "bangla": "আরোপ / উৎস নির্দেশ", "pron": "অ্যাট্রিবিউশন", "type": "noun" },
+"attributable": { "bangla": "আরোপযোগ্য / সম্পর্কিত", "pron": "অ্যাট্রিবিউটেবল", "type": "adjective" },
+
+"automobile": { "bangla": "গাড়ি", "pron": "অটোমোবাইল", "type": "noun" },
+"automobiles": { "bangla": "গাড়িগুলো", "pron": "অটোমোবাইলস", "type": "noun (plural)" },
+"automotive": { "bangla": "যানবাহনসংক্রান্ত", "pron": "অটোমোটিভ", "type": "adjective" },
+"automobilist": { "bangla": "গাড়িচালক / মোটরচালক", "pron": "অটোমোবিলিস্ট", "type": "noun" },
+
+"avoid": { "bangla": "এড়ানো", "pron": "অ্যাভয়েড", "type": "verb (base)" },
+"avoids": { "bangla": "এড়ায়", "pron": "অ্যাভয়েডস", "type": "verb (present)" },
+"avoided": { "bangla": "এড়িয়েছে", "pron": "অ্যাভয়েডেড", "type": "verb (past)" },
+"avoiding": { "bangla": "এড়াচ্ছে", "pron": "অ্যাভয়েডিং", "type": "verb (present participle)" },
+"avoidance": { "bangla": "এড়ানো / পরিহার", "pron": "অ্যাভয়েডেন্স", "type": "noun" },
+"avoidable": { "bangla": "এড়ানো যায় এমন", "pron": "অ্যাভয়েডেবল", "type": "adjective" },
+"avoidably": { "bangla": "পরিহারযোগ্যভাবে", "pron": "অ্যাভয়েডাবলি", "type": "adverb" },
+
+"aware": { "bangla": "সচেতন", "pron": "অ্যাওয়ার", "type": "adjective" },
+"awareness": { "bangla": "সচেতনতা", "pron": "অ্যাওয়ারনেস", "type": "noun" },
+"unaware": { "bangla": "অসচেতন", "pron": "আনঅ্যাওয়ার", "type": "adjective" },
+"unawareness": { "bangla": "অসচেতনতা", "pron": "আনঅ্যাওয়ারনেস", "type": "noun" },
+
+"away": { "bangla": "দূরে / চলে যাওয়া", "pron": "অ্যাওয়ে", "type": "adverb" },
+
+"playground": { "bangla": "খেলার মাঠ", "pron": "প্লেগ্রাউন্ড", "type": "noun (singular)" },
+"playgrounds": { "bangla": "খেলার মাঠসমূহ", "pron": "প্লেগ্রাউন্ডস", "type": "noun (plural)" }
+}
